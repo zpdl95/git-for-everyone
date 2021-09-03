@@ -1,5 +1,5 @@
-좋은날
-나는유
+좋은 날
+아이유
 어쩜 이렇게 하늘은 더 파란 건지?
 오늘따라 왜 바람은 또 완벽한지?
 그냥 모르는 척, 하나 못들은 척
@@ -39,3 +39,4 @@ I'm in my dream
 It's too beautiful, beautiful day
 Make it a good day
 Just don't make me cry
+이렇게 좋은 날
