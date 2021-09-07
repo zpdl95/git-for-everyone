@@ -3,7 +3,7 @@
 M - modified
 U - untracked
 A - added
-HEAD -> main -- 내 컴퓨터 작업환경 → 내 컴퓨터의 main브런치로 커밋
+HEAD -> main -- 내 컴퓨터 작업환경 → 내 컴퓨터의 main브런치로 커밋, HEAD: 이전 커밋들이 모두합쳐졌다는 의미 그리고 현재위치를 표시함
 origin/main -- origin: 원격저장소(github.com), main: main브런치
 
 ■ 커밋 이력 보기
